@@ -1,7 +1,7 @@
 # SGEMM_Optimization
 Running on NVIDIA GeForce RTX 3070 Ti
 ![](plot.png)
-GFLOPS at 4096x4096:
+### GFLOPS at 4096x4096:
 <!-- benchmark_results -->
 | Kernels                              |  GFLOPS  | Performance relative to cuBLAS |
 |:-------------------------------------|---------:|:-------------------------------|
